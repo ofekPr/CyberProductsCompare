@@ -1,0 +1,18 @@
+@import  './base/settings';
+@import './base/base';
+@import './components/search.scss';
+@import './components/menu.scss';
+@import './components/slideshow.scss';
+@import './components/logIn.scss';
+@import './components/Product.scss';
+@import './components/home.scss';
+
+.returnHome{
+    all: none;
+    margin: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.returnHome p{
+    color: white;
+}
